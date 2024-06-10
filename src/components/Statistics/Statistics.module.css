@@ -1,0 +1,18 @@
+.statistics {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    max-width: 300px;
+}
+
+.statisticsItem {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.statisticsItem span {
+    font-weight: bold;
+    color: #333;
+}
